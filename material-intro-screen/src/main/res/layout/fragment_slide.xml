@@ -37,7 +37,7 @@
         android:layout_marginStart="@dimen/margin_small"
         android:layout_marginRight="@dimen/margin_small"
         android:layout_marginEnd="@dimen/margin_small"
-        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_marginBottom="@dimen/margin_medium"
         android:gravity="center"
         android:textAppearance="@style/TextAppearance.AppCompat.Headline"
         app:layout_parallaxFactor="0.5"
